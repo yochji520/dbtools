@@ -1,0 +1,6 @@
+#db实例
+db_instance: {name:"",age:""}
+
+#管理账号
+
+admin: {user: "", passwd: ""}
